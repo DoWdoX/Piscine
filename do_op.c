@@ -1,10 +1,10 @@
 /*
-** do_op.c for do_op in /home/clement/Piscine/CPool_Day10/do-op
+** do_op.c for do_op in /home/DoWdoX/Piscine/CPool_Day10/do-op
 ** 
-** Made by clement girard
-** Login   <clement@epitech.net>
+** Made by DORIAN DEBOUT
+** Login   <dorian.debout@epitech.net>
 ** 
-** Started on  Fri Oct 14 10:04:21 2016 clement girard
+** Started on  Fri Oct 14 10:04:21 2016 DORIAN DEBOUT
 ** Last update Fri May  5 19:00:34 2017 DORIAN DEBOUT
 */
 
