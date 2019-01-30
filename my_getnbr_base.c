@@ -1,13 +1,3 @@
-/*
-** my_getnbr_base.c for my_getnbr_base in /home/clement/Piscine/CPool_Day06
-** 
-** Made by clement girard
-** Login   <clement@epitech.net>
-** 
-** Started on  Wed Oct 12 11:46:59 2016 clement girard
-** Last update Wed Oct 12 14:58:05 2016 clement girard
-*/
-
 int	my_negative(char str)
 {
   int	sign;

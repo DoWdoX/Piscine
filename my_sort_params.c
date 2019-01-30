@@ -1,13 +1,3 @@
-/*
-** my_sort_params.c for my_sort_params in /home/clement/Piscine/CPool_Day07/task06
-** 
-** Made by clement girard
-** Login   <clement@epitech.net>
-** 
-** Started on  Tue Oct 11 11:10:57 2016 clement girard
-** Last update Tue Oct 11 11:25:13 2016 clement girard
-*/
-
 int	my_writeprog(char **av, int k)
 {
   k = 0;

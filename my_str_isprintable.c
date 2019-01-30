@@ -1,13 +1,3 @@
-/*
-** my_str_isprintable.c for my_str_isprintable in /home/clement/Piscine/CPool_Day06
-** 
-** Made by clement girard
-** Login   <clement@epitech.net>
-** 
-** Started on  Mon Oct 10 12:40:01 2016 clement girard
-** Last update Mon Oct 10 12:43:05 2016 clement girard
-*/
-
 int	my_str_isprintable(char *str)
 {
   int	i;

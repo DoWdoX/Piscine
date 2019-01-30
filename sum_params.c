@@ -1,13 +1,3 @@
-/*
-** my_sum_params.c for my_sum_params in /home/clement/Piscine/CPool_Day08/task02
-** 
-** Made by clement girard
-** Login   <clement@epitech.net>
-** 
-** Started on  Wed Oct 12 09:26:15 2016 clement girard
-** Last update Thu Oct 13 10:48:31 2016 clement girard
-*/
-
 #include <stdlib.h>
 
 char	*sum_params(int argc, char **argv)

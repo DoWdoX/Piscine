@@ -1,13 +1,3 @@
-/*
-** my_evil_str.c for my_evil_str in /home/clement/Piscine/CPool_Day04
-** 
-** Made by clement girard
-** Login   <clement@epitech.net>
-** 
-** Started on  Thu Oct  6 10:32:54 2016 clement girard
-** Last update Fri Oct  7 17:34:36 2016 clement girard
-*/
-
 int	my_swap1(char *a, char *b)
 {
   char	i;

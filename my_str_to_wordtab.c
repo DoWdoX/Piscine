@@ -1,13 +1,3 @@
-/*
-** my_str_to_wordtab.c for my_str_to_wordtab in /home/clement/Piscine/CPool_Day08/task04
-** 
-** Made by DORIAN DEBOUT
-** Login   <DoWdox@epitech.net>
-** 
-** Started on  Thu Oct 13 12:25:28 2016 DORIAN DEBOUT
-** Last update Sat Jan 21 14:31:08 2017 DORIAN DEBOUT
-*/
-
 #include <stdlib.h>
 
 int	nbr_word(char *str)

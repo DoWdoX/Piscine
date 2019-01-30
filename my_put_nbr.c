@@ -1,13 +1,3 @@
-/*
-** my_put_nbr.c for my_put_nbr in /home/clement/Piscine/CPool_Day03
-** 
-** Made by clement girard
-** Login   <clement@epitech.net>
-** 
-** Started on  Wed Oct  5 11:29:27 2016 clement girard
-** Last update Sun Oct 16 22:48:57 2016 clement girard
-*/
-
 void	my_putchar(char c);
 
 int	my_put_nbr(int nb)

@@ -1,13 +1,3 @@
-/*
-** my_params_in_list.c for my_params_in_list in /home/clement/Piscine/CPool_Day11/task01
-** 
-** Made by clement girard
-** Login   <clement@epitech.net>
-** 
-** Started on  Mon Oct 17 15:06:02 2016 clement girard
-** Last update Mon Oct 17 20:13:37 2016 clement girard
-*/
-
 #include "mylist.h"
 
 int	my_put_in_list(struct s_list **s_list2, void *data)

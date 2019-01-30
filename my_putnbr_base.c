@@ -1,13 +1,3 @@
-/*
-** my_putnbr_base.c for my_putnbr_base in /home/clement/Piscine/CPool_Day06
-** 
-** Made by clement girard
-** Login   <clement@epitech.net>
-** 
-** Started on  Mon Oct 10 15:36:31 2016 clement girard
-** Last update Tue Oct 11 10:54:11 2016 clement girard
-*/
-
 int	my_getsize(char *str)
 {
   int	j;

@@ -1,13 +1,3 @@
-/*
-** my_print_comb.c for my_print_comb in /home/clement/Piscine/CPool_Day03
-** 
-** Made by clement girard
-** Login   <clement@epitech.net>
-** 
-** Started on  Wed Oct  5 09:54:23 2016 clement girard
-** Last update Thu Oct  6 22:40:44 2016 clement girard
-*/
-
 void	my_putchar(char c);
 
 int	print_putchar(int i, int j, int k)

@@ -1,13 +1,3 @@
-/*
-** my_show_tab.c for my_show_tab in /home/clement/Piscine/CPool_Day09/task04
-** 
-** Made by clement girard
-** Login   <clement@epitech.net>
-** 
-** Started on  Thu Oct 13 17:01:16 2016 clement girard
-** Last update Fri Oct 14 22:00:24 2016 clement girard
-*/
-
 void	my_print_word(char **ptr)
 {
   int	i;

@@ -1,13 +1,3 @@
-/*
-** my_sort_int_tab.c for my_sort_int_tab in /home/clement/Piscine/CPool_Day04
-** 
-** Made by clement girard
-** Login   <clement@epitech.net>
-** 
-** Started on  Thu Oct  6 23:07:25 2016 clement girard
-** Last update Thu Oct  6 23:14:40 2016 clement girard
-*/
-
 void	my_sort_int_tab(int *tab, int size)
 {
   int	a;

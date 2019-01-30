@@ -1,13 +1,3 @@
-/*
-** do_op.c for do_op in /home/DoWdoX/Piscine/CPool_Day10/do-op
-** 
-** Made by DORIAN DEBOUT
-** Login   <dorian.debout@epitech.net>
-** 
-** Started on  Fri Oct 14 10:04:21 2016 DORIAN DEBOUT
-** Last update Fri May  5 19:00:34 2017 DORIAN DEBOUT
-*/
-
 #include "do_op.h"
 
 int	my_error(char opp, int b)

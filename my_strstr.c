@@ -1,13 +1,3 @@
-/*
-** my_strstr.c for my_strstr in /home/clement/Piscine/CPool_Day06
-** 
-** Made by clement girard
-** Login   <clement@epitech.net>
-** 
-** Started on  Mon Oct 10 09:44:31 2016 clement girard
-** Last update Mon Oct 17 08:21:00 2016 clement girard
-*/
-
 #include <stdlib.h>
 
 char	*my_strstr(char *str, char *to_find)

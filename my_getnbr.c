@@ -1,13 +1,3 @@
-/*
-** my_getnbr.c for my_getnbr in /home/clement/Piscine/CPool_Day04
-** 
-** Made by clement girard
-** Login   <clement@epitech.net>
-** 
-** Started on  Thu Oct  6 11:49:01 2016 clement girard
-** Last update Fri Oct  7 20:53:07 2016 clement girard
-*/
-
 int	my_strcmp(char *s1, char *s2)
 {
   int	i;

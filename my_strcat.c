@@ -1,13 +1,3 @@
-/*
-** my_strcat.c for my_strcat in /home/clement/Piscine/CPool_Day07/lib/my
-** 
-** Made by clement girard
-** Login   <clement@epitech.net>
-** 
-** Started on  Tue Oct 11 09:19:45 2016 clement girard
-** Last update Wed Oct 12 14:46:20 2016 clement girard
-*/
-
 #include <stdlib.h>
 
 char	*my_strcat(char *dest, char *src)

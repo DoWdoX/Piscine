@@ -1,13 +1,3 @@
-/*
-** my_strcapitalize.c for my_strcapitalize in /home/clement/Piscine/CPool_Day06
-** 
-** Made by clement girard
-** Login   <clement@epitech.net>
-** 
-** Started on  Mon Oct 10 11:00:50 2016 clement girard
-** Last update Mon Oct 10 14:15:59 2016 clement girard
-*/
-
 char	*my_strcapitalize(char *str)
 {
   int	i;

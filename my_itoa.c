@@ -1,13 +1,3 @@
-/*
-** my_itoa.c for my_itoa in /home/DoWdoX/all_C
-** 
-** Made by DORIAN DEBOUT
-** Login   <DoWdoX@epitech.net>
-** 
-** Started on  Wed Mar 15 22:06:37 2017 DORIAN DEBOUT
-** Last update Wed Mar 15 22:11:01 2017 DORIAN DEBOUT
-*/
-
 int	my_int_len(int nb)
 {
   int	div;
